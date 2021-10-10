@@ -1,0 +1,26 @@
+#include<iostream>
+
+#- Hash
+<-Less Than
+>-Greater Than
+int main()
+
+(- Opening 1st-Bracket
+)- Closing 1st-Bracket
+{
+
+    int a,b;
+
+,- Comma
+;- Semicolon
+
+
+    a=a+b;
+
+;- Semicolon
+    return 0;
+
+;- Semicolon
+}
+
+int int return 
